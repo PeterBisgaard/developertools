@@ -3,7 +3,7 @@
 ## Programming IDE
 
 - Visual Studio Code
-- [Requestbin] (https://requestbin.com/)
+- Requestbin https://requestbin.com/
 
 ### Extensions
 
